@@ -7,4 +7,8 @@ maven镜像
  <mirrorOf>central</mirrorOf> 
 </mirror>
 
+-vm
+D:\Program Files\Java\jdk1.8.0_191\jre\bin\server\jvm.dll
+在-vmargs之前，在-product, --launcher.*之后。
+
 mvn package -DskipTests
