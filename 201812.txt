@@ -1,5 +1,4 @@
-maven镜像
-
+Maven 阿里云仓库镜像地址：
 <mirror> 
  <id>alimaven</id> 
  <name>aliyun maven</name>
@@ -7,6 +6,7 @@ maven镜像
  <mirrorOf>central</mirrorOf> 
 </mirror>
 
+Eclipse 启动参数设置：
 -vm
 D:\Program Files\Java\jdk1.8.0_191\jre\bin\server\jvm.dll
 在-vmargs之前，在-product, --launcher.*之后。
