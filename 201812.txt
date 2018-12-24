@@ -12,3 +12,6 @@ D:\Program Files\Java\jdk1.8.0_191\jre\bin\server\jvm.dll
 在-vmargs之前，在-product, --launcher.*之后。
 
 mvn package -DskipTests
+
+http://www.sintef.no/projectweb/mrst/
+MATLAB Reservoir Simulation Toolbox (MRST) 是有挪威SINTEF应用数学部分计算地学组研发的开源油藏模拟软件，基于MATLAB语言写的，面向于科研和快速原型开发，目前获得越来越多的应用和认可。每年发布两个新版本，每个版本获得大概700到1100个的独立下载。在多个著名的石油和石油服务公司内部被采用，越来越多的石油院校用此软件作为教学软件，包括在Stanford大学的在线课程Jolt. 
