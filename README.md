@@ -28,3 +28,10 @@ changes in phpMiniAdmin 1.9.150917
 
 耶鲁大学2004发布的SSO项目 被广泛使用
 https://en.wikipedia.org/wiki/Central_Authentication_Service
+
+常用连接池
+C3P0，DBCP停止更新
+HikariCP，spring项目默认连接池
+R.I.P 性能好
+tomcat jdbc pool
+Druid 阿里巴巴
