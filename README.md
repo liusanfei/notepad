@@ -31,6 +31,8 @@ https://php.vrana.cz/architecture-of-adminer.php
 
 MSSQL PHP扩展
 https://github.com/Microsoft/msphpsql/releases
+mssql驱动下载介绍
+https://www.cnblogs.com/huixch/p/7065033.html
 
 耶鲁大学2004发布的SSO项目 被广泛使用
 https://en.wikipedia.org/wiki/Central_Authentication_Service
