@@ -34,6 +34,7 @@ https://github.com/Microsoft/msphpsql/releases
 mssql驱动下载介绍
 https://www.cnblogs.com/huixch/p/7065033.html
 https://www.cnblogs.com/ordinaryk/p/7954355.html
+http://robsphp.blogspot.co.uk/2012/06/unofficial-microsoft-sql-server-driver.html
 
 耶鲁大学2004发布的SSO项目 被广泛使用
 https://en.wikipedia.org/wiki/Central_Authentication_Service
