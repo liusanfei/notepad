@@ -25,3 +25,6 @@ changes in phpMiniAdmin 1.9.150917
 参考三
 原版项目地址 https://www.adminer.org/
 
+
+耶鲁大学2004发布的SSO项目 被广泛使用
+https://en.wikipedia.org/wiki/Central_Authentication_Service
