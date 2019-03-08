@@ -22,4 +22,6 @@ changes in phpMiniAdmin 1.9.150917
 参考二
 原版项目地址 https://www.phpliteadmin.org/
 
+参考三
+原版项目地址 https://www.adminer.org/
 
