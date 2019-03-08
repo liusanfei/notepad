@@ -52,3 +52,7 @@ the protection against Cross-site Scripting
 
 虽然国内很多PHP程序员仍在依靠addslashes防止SQL注入，还是建议大家加强中文防止SQL注入的检查。addslashes的问题在于黑客可以用0xbf27来代替单引号，而addslashes只是将0xbf27修改为0xbf5c27，成为一个有效的多字节字符，其中的0xbf5c仍会被看作是单引号，所以addslashes无法成功拦截。
        当然addslashes也不是毫无用处，它是用于单字节字符串的处理，多字节字符还是用mysql_real_escape_string吧。
+       
+ * addslashes() 是强行加\；
+* mysql_real_escape_string()  会判断字符集，但是对PHP版本有要求；
+* mysql_escape_string不考虑连接的当前字符集。      
