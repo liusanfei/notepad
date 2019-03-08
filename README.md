@@ -35,3 +35,23 @@ HikariCP，spring项目默认连接池
 R.I.P 性能好
 tomcat jdbc pool
 Druid 阿里巴巴
+
+网络I/O模型有四五种
+
+1. Blocking IO模型
+# 同步阻塞
+
+2. Non-Blocking IO模型
+# 同步非阻塞
+# 虽然名字叫非阻塞，其实是阻塞的，后面那个异步IO才是真的非阻塞
+
+3. I/O Multiplexing模型，又叫Reactor模型，又叫Select模型，又叫事件驱动模型
+# NIO里面有这个吧，Java 1.4的时候，是说Java实现了一个select()函数
+# 同步阻塞
+
+4. Asynchronous I/O模型，又叫Proactor模型
+# Java 1.7的时候，NIO 2.0有了AIO
+# 异步非阻塞
+
+5. Signal Driven I/O模型（这种忽略）
+# 同2
