@@ -55,4 +55,7 @@ the protection against Cross-site Scripting
        
  * addslashes() 是强行加\；
 * mysql_real_escape_string()  会判断字符集，但是对PHP版本有要求；
-* mysql_escape_string不考虑连接的当前字符集。      
+* mysql_escape_string不考虑连接的当前字符集。  
+
+
+JS CORS 跨域
